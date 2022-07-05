@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mishra</h1>
 <h3 align="center">Backend Developer</h3>
-<img src="img.jpg" alt="Gaurav" width="500" height="600">
+img align="center" alt="Gaurav Mishra" src="https://avatars.githubusercontent.com/u/77156501?s=400&u=a7924097539c1f95c70d0f9a0a2e7c1517e6b1a9&v=4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-9648&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-9648" /> </p>
 
