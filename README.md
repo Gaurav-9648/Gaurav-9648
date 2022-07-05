@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mishra</h1>
 <h3 align="center">Backend Developer</h3>
-<img align="center" alt="Gaurav Mishra" src="https://pbs.twimg.com/profile_images/1544284042673106944/-O5LuPT6_400x400.jpg">
+<img align="center" alt="Gaurav Mishra" height ="500" width="700" src="https://pbs.twimg.com/profile_images/1544284042673106944/-O5LuPT6_400x400.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-9648&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-9648" /> </p>
 
