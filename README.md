@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gauravm69264666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravm69264666" height="30" width="40" /></a>
+<a href="https://twitter.com/RockGaurav96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravm69264666" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-mishra-508610203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-mishra-508610203" height="30" width="40" /></a>
 <a href="https://kaggle.com/gaurav mishra96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaurav mishra96" height="30" width="40" /></a>
 <a href="https://instagram.com/_gaurav.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaurav.m" height="30" width="40" /></a>
