@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **9648gauravmishra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qRFhyMklYEaVpgWtNjHSxQB6k3lWG2Ng/view?usp=share_link](https://drive.google.com/file/d/1qRFhyMklYEaVpgWtNjHSxQB6k3lWG2Ng/view?usp=share_link)
+- 📄 Know about my experiences([https://drive.google.com/file/d/1qRFhyMklYEaVpgWtNjHSxQB6k3lWG2Ng/view?usp=share_link](https://drive.google.com/file/d/1kRg8Vj5i_mrTUk2VTBYQZrc-4nGxZgEf/view?usp=share_link))
 
 - ⚡ Fun fact **😊**
 
