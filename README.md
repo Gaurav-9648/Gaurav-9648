@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/RockGaurav96" target="blank"><img src="https://img.shields.io/twitter/follow/RockGaurav96?logo=twitter&style=for-the-badge" alt="RockGaurav96" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RockGaurav96" target="blank"><img src="https://img.shields.io/twitter/follow/RockGaurav96?logo=twitter&style=for-the-badge" alt="Gauravm0001" /></a> </p>
 
 - 🔭 I’m currently working on **Crop Recommendation Using Weather and Soil Content**
 
